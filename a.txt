@@ -1,4 +1,6 @@
 this is sample file called a
+name = pari
+location = hyd
 
 my first commit2
 
